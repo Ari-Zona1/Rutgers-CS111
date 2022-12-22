@@ -16,7 +16,7 @@ To run any of the programs, you will need to have the Java Development Kit (JDK)
 3. Compile the Java file using the `javac` command, followed by the file name. For example, to compile FindDuplicate.java, you would enter `javac FindDuplicate.java`
 4. Run the program using the `java` command, followed by the class name. For example, to run FindDuplicate.java, you would enter `java FindDuplicate`
 
-#Project Description 
+# Project Description 
 
 ## Find a Duplicate
 
