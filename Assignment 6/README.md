@@ -1,4 +1,4 @@
-# Assignment 2
+# Assignment 6
 
 This repository contains several Java programs that creates a weather forecasting simulation that predicts whether the next day will be wet or dry based on:
 
@@ -16,7 +16,7 @@ This repository contains several Java programs that creates a weather forecastin
    - drywet.txt: This file contains weather data in the form of temperature and humidity readings, with the humidity readings being low (dry).
    - wetwet.txt: This file contains weather data in the form of temperature and humidity readings, with the humidity readings being high (wet).
 
-#Project Description
+## Project Description
 
 To do this, I was given two text files: `drywet.txt` and `wetwet.txt`. `wetwet.txt` contains the probability of the next day being wet if the current day is wet, and `drywet.txt` contains the probability of the next day being wet if the current day is dry. The data in these files is organized by location and month, with the probability for each month listed in the following order: January, February, March, etc.
 
