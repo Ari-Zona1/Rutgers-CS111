@@ -4,7 +4,7 @@ This repository contains several Java programs that I have written for analyzing
 
 ## List of Programs
 
-###Program 1: 
+### Program 1: 
     RecursiveAppend.java is a Java program that uses recursion to append characters to a string.
 
 ### Program 2: 
@@ -18,11 +18,11 @@ This repository contains several Java programs that I have written for analyzing
 
 ## Project Description
 
-###Program 1: RecursiveAppend.java
+### Program 1: RecursiveAppend.java
 
 The RecursiveAppend is a Java program that uses recursive method appendNTimes that receives two arguments, a string and an integer. The method appendNTimes returns the original string appended to the original string n times.
 
-###Program 2: Leasing Cost Analysis
+### Program 2: Leasing Cost Analysis
 
 The LeasingCost program calculates the total cost and carbon emissions of leasing a gasoline-powered or electric vehicle over a 36-month period. The program considers several factors in the cost calculation, including the amount due at signing, the length of the lease, the monthly cost, the mileage allowance, and the cost of a charger for electric vehicles. The program allows the user to input current fuel and electricity prices, as well as the mileage and fuel efficiency of the car they are considering.
 
