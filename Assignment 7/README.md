@@ -25,8 +25,8 @@ To run the Sierpinski program, you will need to have the Java Development Kit (J
 
 1. Open a terminal window
 2. Navigate to the directory where the Java files are located
-3. Compile the Java files using the javac command, followed by the file names. For example, to compile Sierpinski.java, StdDraw.java, StdIn.java, and StdOut.java, you would enter:
-    javac Sierpinski.java StdDraw.java StdIn.java StdOut.java
+3. Compile the Java files using the javac command, followed by the file names. For example, to compile Sierpinski.java, you would enter:
+    javac Sierpinski.java 
 4. Run the Sierpinski program using the java command, followed by the class name and the desired order of the Sierpinski triangle. For example, to generate a Sierpinski triangle of order 3, you would enter:
     java Sierpinski 3
 
