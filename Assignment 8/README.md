@@ -41,7 +41,7 @@ To run the RecursiveAppend program, you will need to have the Java Development K
 3. Compile the Java file using the javac command, followed by the file name. For example, to compile RecursiveAppend.java, you would enter: `javac RecursiveAppend.java`
 4. Run the RecursiveAppend program using the java command, followed by the class name. For example, to run the program, you would enter: `java RecursiveAppend`
 
-## Program 2: Fuel.java, Lease.java, LeasingCost.java, StdIn.java, StdOut.java, Vehicle.java, vehicles.txt
+## Program 2: LeasingCost.java
 
 ### How to Run the Program
 
