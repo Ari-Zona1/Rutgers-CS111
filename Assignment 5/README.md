@@ -2,6 +2,8 @@
 
 This repository contains a Java program called `PolygonTransform.java` that performs various geometric transforms on polygons. The program includes several utility programs: `StdDraw.java`, `StdIn.java`, `StdOut.java`, and `StdRandom.java`.
 
+# Project Description
+
 A polygon is defined by its sequence of vertices (x0, y0), (x1, y1), (x2, y2), …. In the program, a polygon is represented by storing the x- and y-coordinates of the vertices in two parallel arrays `x[]` and `y[]`.
 
 ![alt text](https://introcs.cs.rutgers.edu/wp-content/uploads/sites/55/2019/10/polygon-1.png)
@@ -13,6 +15,7 @@ Three useful geometric transforms are scale, translate, and rotate. The `Polygon
 - `public static void translate(double[] x, double[] y, double dx, double dy)`: translates the polygon by (`dx`, `dy`).
 - `public static void rotate(double[] x, double[] y, double theta)`: rotates the polygon `theta` degrees counterclockwise, about the origin.
 
+# How to Run the Program
 To run the program, you will need to have the Java Development Kit (JDK) installed on your machine. Then, follow these steps:
 
 1. Open a terminal window
