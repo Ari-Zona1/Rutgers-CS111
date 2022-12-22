@@ -1,6 +1,6 @@
 # Assignment 8
 
-This repository contains several Java programs that I have written for analyzing car leasing options and calculating the cost and carbon emissions of different vehicles.
+This repository contains several Java programs that I have written for appending a string to itself n times and another program for analyzing car leasing options and calculating the cost and carbon emissions of different vehicles.
 
 ## List of Programs
 
@@ -8,13 +8,13 @@ This repository contains several Java programs that I have written for analyzing
     RecursiveAppend.java is a Java program that uses recursion to append characters to a string.
 
 ### Program 2: 
-    Fuel.java: This Java program defines a class for storing and manipulating data on the fuel efficiency of vehicles.
-    Lease.java: This Java program defines a class for storing and manipulating data on leases for vehicles.
-    LeasingCost.java: This Java program defines a class for calculating the cost of a vehicle lease.
-    StdIn.java: This Java program provides a set of static methods for reading input from the standard input stream (e.g., the keyboard).
-    StdOut.java: This Java program provides a set of static methods for printing output to the standard output stream (e.g., the console).
-    Vehicle.java: This Java program defines a class for storing and manipulating data on vehicles.
-    vehicles.txt: This text file contains data on vehicles, which can be read in and used by the other Java programs in the program.
+   - Fuel.java: This Java program defines a class for storing and manipulating data on the fuel efficiency of vehicles.
+   - Lease.java: This Java program defines a class for storing and manipulating data on leases for vehicles.
+   - LeasingCost.java: This Java program defines a class for calculating the cost of a vehicle lease.
+   - StdIn.java: This Java program provides a set of static methods for reading input from the standard input stream (e.g., the keyboard).
+   - StdOut.java: This Java program provides a set of static methods for printing output to the standard output stream (e.g., the console).
+   - Vehicle.java: This Java program defines a class for storing and manipulating data on vehicles.
+   - vehicles.txt: This text file contains data on vehicles, which can be read in and used by the other Java programs in the program.
 
 ## Project Description
 
@@ -49,7 +49,7 @@ To run the programs in Program 2, you will need to have the Java Development Kit
 
 1. Open a terminal window
 2. Navigate to the directory where the Java files are located
-3. Compile the Java files using the javac command, followed by the file names. For example, to compile all of the Java files, you would enter: `javac Fuel.java Lease.java LeasingCost.java StdIn.java StdOut.java Vehicle.java`
+3. Compile the Java files using the javac command, followed by the file names. For example, to compile all of the Java files, you would enter: `javac LeasingCost.java`
 4. Run the program using the java command, followed by the class name of the main program you want to run. For example, to run the main program, you would enter: `java Main`
 
 **Note:** The StdIn and StdOut libraries are required to run the programs in Program 2. Be sure to include them in the compile and run commands as shown above. The vehicles.txt file should also be located in the same directory as the Java files.
