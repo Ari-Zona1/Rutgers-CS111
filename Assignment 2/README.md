@@ -1,4 +1,4 @@
-# Assignment 2!
+# Assignment 2
 
 This repository contains several Java programs that I have written. 
 
