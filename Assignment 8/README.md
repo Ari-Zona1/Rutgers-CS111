@@ -1,13 +1,20 @@
-# Assignment 8
+#Assignment 8
 
-This repository contains several Java programs that I have written.
+This repository contains several Java programs that I have written for analyzing car leasing options and calculating the cost and carbon emissions of different vehicles.
 
-## List of Programs
+##List of Programs
 
-- Sierpinski.java: a program that generates a Sierpinski triangle of a specified order, using a recursive function
-- StdDraw.java: a library for drawing geometric shapes, lines, and text in a 2D graphics window
-- StdIn.java: a library for reading in data from standard input
-- StdOut.java: a library for writing out data to standard output
+###Program 1: 
+    RecursiveAppend.java is a Java program that uses recursion to append characters to a string.
+
+###Program 2: 
+    Fuel.java: This Java program defines a class for storing and manipulating data on the fuel efficiency of vehicles.
+    Lease.java: This Java program defines a class for storing and manipulating data on leases for vehicles.
+    LeasingCost.java: This Java program defines a class for calculating the cost of a vehicle lease.
+    StdIn.java: This Java program provides a set of static methods for reading input from the standard input stream (e.g., the keyboard).
+    StdOut.java: This Java program provides a set of static methods for printing output to the standard output stream (e.g., the console).
+    Vehicle.java: This Java program defines a class for storing and manipulating data on vehicles.
+    vehicles.txt: This text file contains data on vehicles, which can be read in and used by the other Java programs in the program.
 
 ## Project Description
 
