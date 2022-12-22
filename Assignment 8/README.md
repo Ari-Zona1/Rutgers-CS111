@@ -5,7 +5,7 @@ This repository contains several Java programs that I have written for appending
 ## List of Programs
 
 ### Program 1: 
-    RecursiveAppend.java is a Java program that uses recursion to append characters to a string.
+   - RecursiveAppend.java is a Java program that uses recursion to append characters to a string.
 
 ### Program 2: 
    - Fuel.java: This Java program defines a class for storing and manipulating data on the fuel efficiency of vehicles.
